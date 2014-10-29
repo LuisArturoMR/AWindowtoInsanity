@@ -1441,7 +1441,6 @@ Prefab:
       objectReference: {fileID: 2100000, guid: ade58b77efc42be44ba41a555121b46b, type: 2}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d3b4a324d8f8ced4b8dcc51c72250b93, type: 3}
-  m_RootGameObject: {fileID: 1071733609}
   m_IsPrefabParent: 0
 --- !u!4 &249335388
 Transform:
@@ -3620,7 +3619,6 @@ Prefab:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: f380b4fb152f4d84ba0d9c758ad56161, type: 3}
-  m_RootGameObject: {fileID: 696210085}
   m_IsPrefabParent: 0
 --- !u!1 &557544055
 GameObject:
@@ -5907,7 +5905,6 @@ Prefab:
       objectReference: {fileID: 2100000, guid: ade58b77efc42be44ba41a555121b46b, type: 2}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: e83689f062d3286449f3a796406b2bf3, type: 3}
-  m_RootGameObject: {fileID: 918959255}
   m_IsPrefabParent: 0
 --- !u!1 &1014606217
 GameObject:
@@ -9225,7 +9222,6 @@ Prefab:
       objectReference: {fileID: 2100000, guid: ade58b77efc42be44ba41a555121b46b, type: 2}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: e83689f062d3286449f3a796406b2bf3, type: 3}
-  m_RootGameObject: {fileID: 1210063691}
   m_IsPrefabParent: 0
 --- !u!1 &1682289916
 GameObject:
