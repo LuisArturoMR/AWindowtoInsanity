@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: a1cd36da46281284c93ff3807c8ddbdf
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - turnOn: {fileID: 8300000, guid: b54c3a4162632914cb5538894d2d578a, type: 3}
+  - turnOff: {fileID: 8300000, guid: b54c3a4162632914cb5538894d2d578a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 

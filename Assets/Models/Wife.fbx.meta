@@ -1,0 +1,175 @@
+fileFormatVersion: 2
+guid: 883f25d4a3306124abc8c99385786538
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Arm_r
+    100002: Arm_r1
+    100004: Chest
+    100006: Chest1
+    100008: Collar_Joint
+    100010: Controllers
+    100012: Hair1
+    100014: Head
+    100016: Head_Joint
+    100018: Hip_joint
+    100020: Joints
+    100022: L_Elbow
+    100024: L_Elbow_Controler
+    100026: L_Elbow_Controler1
+    100028: L_Foot_Joint
+    100030: L_Knee_Joint
+    100032: L_Leg_IK
+    100034: L_Leg_IK_Controler
+    100036: L_Shoulder
+    100038: L_Toe_End_Joint
+    100040: L_Toe_Joint
+    100042: L_Upper_Leg_Joint
+    100044: L_Wrist
+    100046: L_Wrist_Controller
+    100048: left
+    100050: Leg_l
+    100052: Leg_l1
+    100054: Mannequin
+    100056: Neck_Controller
+    100058: Neck_Joint
+    100060: nurbsCircle1
+    100062: R_Elbow
+    100064: R_Elbow_Controller
+    100066: R_Foot_Joint
+    100068: R_Knee_Joint
+    100070: R_Leg_IK
+    100072: R_Leg_IK_Controler1
+    100074: R_Shoulder
+    100076: R_Shoulder_Controller
+    100078: R_Toe_End_Joint
+    100080: R_Toe_Joint
+    100082: R_Upper_Leg_Joint
+    100084: R_Wrist
+    100086: R_Wrist_Controller
+    100088: Spine_Joint_
+    100090: //RootNode
+    100092: Wife
+    400000: Arm_r
+    400002: Arm_r1
+    400004: Chest
+    400006: Chest1
+    400008: Collar_Joint
+    400010: Controllers
+    400012: Hair1
+    400014: Head
+    400016: Head_Joint
+    400018: Hip_joint
+    400020: Joints
+    400022: L_Elbow
+    400024: L_Elbow_Controler
+    400026: L_Elbow_Controler1
+    400028: L_Foot_Joint
+    400030: L_Knee_Joint
+    400032: L_Leg_IK
+    400034: L_Leg_IK_Controler
+    400036: L_Shoulder
+    400038: L_Toe_End_Joint
+    400040: L_Toe_Joint
+    400042: L_Upper_Leg_Joint
+    400044: L_Wrist
+    400046: L_Wrist_Controller
+    400048: left
+    400050: Leg_l
+    400052: Leg_l1
+    400054: Mannequin
+    400056: Neck_Controller
+    400058: Neck_Joint
+    400060: nurbsCircle1
+    400062: R_Elbow
+    400064: R_Elbow_Controller
+    400066: R_Foot_Joint
+    400068: R_Knee_Joint
+    400070: R_Leg_IK
+    400072: R_Leg_IK_Controler1
+    400074: R_Shoulder
+    400076: R_Shoulder_Controller
+    400078: R_Toe_End_Joint
+    400080: R_Toe_Joint
+    400082: R_Upper_Leg_Joint
+    400084: R_Wrist
+    400086: R_Wrist_Controller
+    400088: Spine_Joint_
+    400090: //RootNode
+    400092: Wife
+    4300000: Head
+    4300002: Chest
+    4300004: Arm_r
+    4300006: Leg_l
+    4300008: Leg_l1
+    4300010: Arm_r1
+    4300012: Chest1
+    4300014: Hair1
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Arm_r
+    13700002: Arm_r1
+    13700004: Chest
+    13700006: Chest1
+    13700008: Hair1
+    13700010: Head
+    13700012: Leg_l
+    13700014: Leg_l1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    pivotNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
