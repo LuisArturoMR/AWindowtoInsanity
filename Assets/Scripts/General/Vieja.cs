@@ -21,7 +21,7 @@ public class Vieja : MonoBehaviour {
 
 	void Scare(){
 		Vector3 position = player.transform.position;
-		transform.position = new Vector3(position.x - 2, position.y - 1, position.z - 10);
+		transform.position = new Vector3(position.x - 1, position.y - 1, position.z - 10);
 		GetComponent<AudioSource>().clip = jumpScare;
 		GetComponent<AudioSource>().Play();
 		//this.GetComponent<Renderer>().enabled = true;
@@ -29,5 +29,6 @@ public class Vieja : MonoBehaviour {
 	}
 
 	void Load(){
+		//Application.Quit();
 	}
 }
